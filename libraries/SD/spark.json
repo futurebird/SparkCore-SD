@@ -1,0 +1,7 @@
+{
+  "name": "futurebird's SD Fork",
+  "author": "Modified from sparkfun",
+  "license": "",
+  "version": "0.0.10",
+  "description": "I want to use SPI CS with the oled"
+}
